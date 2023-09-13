@@ -1,1 +1,1 @@
-what are the differences between analtical method and numerical method of structural analysis ?
+What are the differences between the analytical method and the numerical method of structural analysis?
