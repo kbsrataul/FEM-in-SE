@@ -62,4 +62,31 @@ Advantages:
 ### 8.	Overemphasis on Detail:
 •	FEM can be overly detailed in some situations, leading to lengthy analysis times and a potential focus on aspects that do not significantly affect the overall behaviour of the structure.
 In summary, while FEM is a powerful and versatile tool, its successful application requires careful consideration of its limitations and an understanding of the underlying principles to obtain meaningful and accurate results.
+## Q3 
+![1](https://github.com/Harshsharma002/FEM-in-SE/assets/143546376/d303c581-f7a8-477a-a51c-4e476686db22)
+![2](https://github.com/Harshsharma002/FEM-in-SE/assets/143546376/0f0d51d2-2bfe-4a4f-b44a-d876298f785e)
+![Handwritten_2023-10-14_232418](https://github.com/Harshsharma002/FEM-in-SE/assets/143546376/51de4a7a-edb3-4ca6-8e57-006ec2f1392b)
+![2023-10-14_232506](https://github.com/Harshsharma002/FEM-in-SE/assets/143546376/ef6e6b34-df39-4cdc-aaf1-4e9289585ace)
+
+## Q4
+![Handwritten_2023-10-14_232810 (4)](https://github.com/Harshsharma002/FEM-in-SE/assets/143546376/68f42f92-7141-4ed2-acdc-4f1f0e83caab)
+
+![Handwritten_2023-10-14_232856 (5)](https://github.com/Harshsharma002/FEM-in-SE/assets/143546376/60e34b22-e8b8-407d-af68-8557dc236519)
+
+![Handwritten_2023-10-14_233000 (6)](https://github.com/Harshsharma002/FEM-in-SE/assets/143546376/e50de29f-7c79-42e6-8030-4f8a1ce2320c)
+
+
+## Q5 SFD and BMD of cantilever beam ?
+![Handwritten_2023-10-14_232619 (2)](https://github.com/Harshsharma002/FEM-in-SE/assets/143546376/abf98834-76d1-4288-a2c1-37ddd02ec5da)
+![Handwritten_2023-10-14_232657 (3)](https://github.com/Harshsharma002/FEM-in-SE/assets/143546376/d30c415e-ef36-49e9-bedd-6a76deb7c9d7)
+
+
+## Q6 Staad pro report of portal frame
+
+[staad report 1 .0.pdf](https://github.com/Harshsharma002/FEM-in-SE/files/12907950/staad.report.1.0.pdf)
+
+
+
+
+
 
