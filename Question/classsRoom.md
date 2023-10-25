@@ -35,3 +35,10 @@ The virtual work method can also be adapted for statically indeterminate structu
 The choice of method depends on the specific type and complexity of the statically indeterminate structure, as well as the available computational resources and software tools. Engineers often use a combination of these principles and methods to analyze and design structures that meet safety and performance requirements.
 
 
+
+
+
+
+
+Q what do you understand by stress concentration ?
+
