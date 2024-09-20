@@ -37,5 +37,5 @@ Commercial FEA Software.
 1. Finite Element Analysis, Buchanan G.R., McGraw Hill Publications, New York
 1. Finite Element Method, Zienkiewicz O.C. & Taylor R.L. Vol. I, II & III, Elsevier
 1. Finite Element Methods in Engineering, Belegundu A.D., Chandrupatla, T.R., Prentice Hall India
-1. [Finite Element Analysis(https://nptel.ac.in/courses/105105041), NPTEL Web Course by IIT Kharagpur, Dr. D. Maity, Prof. S.K. Bhattacharyya
+1. [Finite Element Analysis](https://nptel.ac.in/courses/105105041), NPTEL Web Course by IIT Kharagpur, Dr. D. Maity, Prof. S.K. Bhattacharyya
 1. [Finite Element Analysis](https://nptel.ac.in/courses/105106051), NPTEL Video Course by IIT Madras, Dr. B.N. Rao
